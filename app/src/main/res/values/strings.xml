@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ETS</string>
+    <string name="users">Hosts</string>
+    <string name="add_user">Add host</string>
+    <string name="name">Name</string>
+    <string name="last_name">Ip</string>
+    <string name="age">Status</string>
+</resources>
